@@ -1,2 +1,1 @@
-# -ŞifreYenileme
-Şifre Yenileme
+# ŞifreYenileme
